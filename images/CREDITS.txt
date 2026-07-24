@@ -1,0 +1,36 @@
+Image credits — Centre for Inclusive Development website
+All photos sourced from Unsplash, free to use under the Unsplash License (unsplash.com/license).
+Credited here as a courtesy, per our own preference, even though the license does not require it.
+
+hero-grain-in-hands-mkumbwa.jpg
+  Photographer: Ali Mkumbwa
+  Profile: https://unsplash.com/@mkumbwajr
+  Source: https://unsplash.com/photos/s8Kzx7C6yqo
+
+livelihoods-farmer-field-nyoni.jpg
+  Photographer: Richard Nyoni
+  Profile: https://unsplash.com/@richard_nyoni
+  Source: https://unsplash.com/photos/1AoGjqdyDLU
+
+natural-resource-irrigation-kawed.jpg
+  Photographer: daniel kawed
+  Profile: https://unsplash.com/@dancalorg
+  Source: https://unsplash.com/photos/9f_eJeULtSY
+
+community-family-planting-spratt.jpg
+  Photographer: Annie Spratt
+  Profile: https://unsplash.com/@anniespratt
+  Source: https://unsplash.com/photos/2INKkSrEmc8
+
+community-celebration-theck.jpg
+  Photographer: Lisa Marie Theck
+  Profile: https://unsplash.com/@lisa_marie_theck
+  Source: https://unsplash.com/photos/BRR7Gw7BVHM
+
+community-gathering-village-andriamialijaona.jpg
+  Photographer: Sitraka Mamy Tantely Andriamialijaona
+  Profile: https://unsplash.com/@sitrakamamytantely12
+  Source: https://unsplash.com/photos/iOS-rtpsQk4
+
+Suggested on-page credit line (footer or image caption):
+  "Photo by [Name] on Unsplash"
