@@ -64,6 +64,9 @@ header.site .wrap{
 .brand{ display:flex; align-items:center; gap:10px; text-decoration:none; color:var(--ink); }
 .brand img{ width:30px; height:30px; }
 .brand span{ font-family:var(--sans); font-weight:600; font-size:var(--fs-label); letter-spacing:.02em; }
+.brand-text{ display:flex; flex-direction:column; line-height:1.35; }
+.brand-name{ font-family:var(--sans); font-weight:600; font-size:var(--fs-label); letter-spacing:.02em; }
+.brand-tag{ font-family:var(--sans); font-weight:400; font-size:var(--fs-label); letter-spacing:.02em; color:var(--ink-soft); }
 nav.primary{ display:flex; gap:26px; flex-wrap:wrap; }
 nav.primary a{
   font-family:var(--sans); font-size:var(--fs-label); letter-spacing:.03em; text-decoration:none;
@@ -96,6 +99,7 @@ h2{ font-family:var(--serif); font-size:var(--fs-heading); margin:0 0 14px; }
 h3{ font-family:var(--sans); font-weight:600; font-size:var(--fs-body); margin:0 0 8px; }
 p{ margin:0 0 16px; }
 .lede{ font-size:var(--fs-body); color:var(--ink-soft); max-width:60ch; }
+.statement{ font-family:var(--serif); font-style:italic; font-weight:400; font-size:var(--fs-body); margin:0; }
 
 section{ padding:44px 0; }
 section.bordered{ border-top:1px solid var(--line); }
