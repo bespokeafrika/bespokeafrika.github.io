@@ -63,7 +63,7 @@ header.site .wrap{
 }
 .brand{ display:flex; align-items:center; gap:10px; text-decoration:none; color:var(--ink); }
 .brand img{ width:30px; height:30px; }
-.brand span{ font-family:var(--sans); font-weight:600; font-size:var(--fs-label); letter-spacing:.02em; }
+.brand > span{ font-family:var(--sans); font-weight:600; font-size:var(--fs-label); letter-spacing:.02em; }
 .brand-text{ display:flex; flex-direction:column; }
 .brand-name{ font-family:var(--sans); font-weight:600; font-size:var(--fs-label); letter-spacing:.02em; }
 .brand-tag{ font-family:var(--sans); font-weight:400; font-size:calc(var(--fs-label) * 0.58); letter-spacing:normal; color:var(--gold); margin-top:2px; }
